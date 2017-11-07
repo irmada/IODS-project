@@ -1,0 +1,3 @@
+## Read Me
+
+The name of this course is Introduction to Open Data Science. In this course we learn to visualize, analyze, interpret, understand, and communicate. We use R, RStudio, RMarkdown, GitHub, and GitHub Desktop. You can find my course diary at <https://irmada.github.io/IODS-project/>.
